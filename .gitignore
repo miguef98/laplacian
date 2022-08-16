@@ -1,0 +1,7 @@
+generadas/
+originales/
+*.off
+*.obj
+*.stl
+__pycache__/
+.ipynb_checkpoints
